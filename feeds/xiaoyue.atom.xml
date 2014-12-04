@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Creativeless</title><link href="/" rel="alternate"></link><link href="/feeds/xiaoyue.atom.xml" rel="self"></link><id>/</id><updated>2014-07-06T00:08:00+02:00</updated><entry><title>First Test</title><link href="/first-test.html" rel="alternate"></link><updated>2014-07-06T00:08:00+02:00</updated><author><name>XiaoYue</name></author><id>tag:,2014-07-06:first-test.html</id><summary type="html">&lt;p&gt;First Test
+this is my first blog&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
